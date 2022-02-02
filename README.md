@@ -1,1 +1,1 @@
-# chooing-github.io
+# chooing.github.io
